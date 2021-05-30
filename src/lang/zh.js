@@ -1,5 +1,8 @@
 export default {
   route: {
+    roomAuditing: '房源审核',
+    roomManagement: '房源管理',
+    userManagement: '用户管理',
     dashboard: '首页',
     documentation: '文档',
     guide: '引导页',
